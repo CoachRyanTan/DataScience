@@ -78,8 +78,7 @@ It demonstrates data preprocessing, model training, evaluation, and visualizatio
 
 ## 📈 Visualization
 
-![ROC Curve - KNN](./97f0b62e-b0e6-456c-8f69-f6b0e60ca7da.png)
-
+![ROC Curve - KNN](./roc.png)
 *ROC Curve showing AUC = 0.9792, confirming high model sensitivity and specificity.*
 
 ---
