@@ -83,30 +83,6 @@ It demonstrates data preprocessing, model training, evaluation, and visualizatio
 
 ---
 
-## ⚙️ How to Run This Project
-
-You can run this project on **Google Colab** or locally on your machine.
-
-### Option 1: Run on Colab
-1. Open this notebook:  
-   👉 [Run on Google Colab](https://colab.research.google.com/drive/1TlaEw21uaWot2h3rbGLBf_NgnZo8naCa?usp=sharing)
-2. Click **Runtime → Run all**
-3. View the model metrics and ROC curve output
-
-### Option 2: Run Locally
-```bash
-# 1. Clone this repository
-git clone https://github.com/yourusername/Breast-Cancer-Detection.git
-cd Breast-Cancer-Detection
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the notebook
-jupyter notebook Breast_Cancer_Detection.ipynb
-
----
-
 ## 💡 Key Skills Demonstrated
 - **Data Cleaning & Feature Engineering** – Pandas, NumPy  
 - **Model Development & Optimization** – Scikit-learn (KNN, GridSearchCV)  
@@ -140,3 +116,25 @@ jupyter notebook Breast_Cancer_Detection.ipynb
 🔗 [LinkedIn Profile](#) | [Google Colab Notebook](https://colab.research.google.com/drive/1TlaEw21uaWot2h3rbGLBf_NgnZo8naCa?usp=sharing)
 
 ---
+
+## ⚙️ How to Run This Project
+
+You can run this project on **Google Colab** or locally on your machine.
+
+### Option 1: Run on Colab
+1. Open this notebook:  
+   👉 [Run on Google Colab](https://colab.research.google.com/drive/1TlaEw21uaWot2h3rbGLBf_NgnZo8naCa?usp=sharing)
+2. Click **Runtime → Run all**
+3. View the model metrics and ROC curve output
+
+### Option 2: Run Locally
+```bash
+# 1. Clone this repository
+git clone https://github.com/yourusername/Breast-Cancer-Detection.git
+cd Breast-Cancer-Detection
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the notebook
+jupyter notebook Breast_Cancer_Detection.ipynb
