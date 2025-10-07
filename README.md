@@ -42,8 +42,7 @@ It demonstrates data preprocessing, model training, evaluation, and visualizatio
 - **Target Classes:**  
   - **M (Malignant)**  
   - **B (Benign)**  
-
-**Train-Test Split:** 80% train / 20% test
+- **Train-Test Split:** 80% train / 20% test
 
 ---
 
