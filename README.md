@@ -117,6 +117,7 @@ It demonstrates data preprocessing, model training, evaluation, and visualizatio
 🎯 Data Scientist | Healthcare & Business Analytics Enthusiast  
 📍 Singapore  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/coachryantan) | [Google Colab Notebook](https://colab.research.google.com/drive/1TlaEw21uaWot2h3rbGLBf_NgnZo8naCa?usp=sharing)
+
 _Open to opportunities in healthcare data science and medical AI applications_
 
 ---
