@@ -113,7 +113,7 @@ It demonstrates data preprocessing, model training, evaluation, and visualizatio
 **Ryan Tan**  
 🎯 Mid-Career Data Science Trainee | Healthcare & Business Analytics Enthusiast  
 📍 Singapore  
-🔗 [LinkedIn Profile](#) | [Google Colab Notebook](https://colab.research.google.com/drive/1TlaEw21uaWot2h3rbGLBf_NgnZo8naCa?usp=sharing)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/coachryantan) | [Google Colab Notebook](https://colab.research.google.com/drive/1TlaEw21uaWot2h3rbGLBf_NgnZo8naCa?usp=sharing)
 
 ---
 
