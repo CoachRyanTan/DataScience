@@ -104,3 +104,39 @@ pip install -r requirements.txt
 
 # 3. Run the notebook
 jupyter notebook Breast_Cancer_Detection.ipynb
+
+---
+
+## 💡 Key Skills Demonstrated
+- **Data Cleaning & Feature Engineering** – Pandas, NumPy  
+- **Model Development & Optimization** – Scikit-learn (KNN, GridSearchCV)  
+- **Performance Evaluation** – ROC-AUC, F1-score  
+- **Exploratory Data Visualization** – Matplotlib, Seaborn  
+- **Healthcare Data Interpretation & Insight Communication**
+
+---
+
+## 🩺 Business / Clinical Impact
+> This model demonstrates how **data-driven analytics** can support early breast cancer detection, enabling clinicians to make more confident, accurate, and timely diagnoses — potentially saving lives through early intervention.
+
+---
+
+## 🚀 Tools & Libraries
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `Google Colab`
+
+---
+
+## 🧭 Future Work
+- Integrate ensemble models (XGBoost, LightGBM)  
+- Apply **explainable AI (XAI)** techniques (SHAP, LIME)  
+- Deploy via **Streamlit web app** for interactive demo  
+
+---
+
+## 👤 Author
+**Ryan Tan**  
+🎯 Mid-Career Data Science Trainee | Healthcare & Business Analytics Enthusiast  
+📍 Singapore  
+🔗 [LinkedIn Profile](#) | [Google Colab Notebook](https://colab.research.google.com/drive/1TlaEw21uaWot2h3rbGLBf_NgnZo8naCa?usp=sharing)
+
+---
