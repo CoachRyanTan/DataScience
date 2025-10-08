@@ -130,16 +130,16 @@ results = batch_screen_students(student_list)
 export_screening_results(results, 'screening_results.csv')
 ```
 
-#💡 Business Impact
+## 💡 Business Impact
 
-##Institutional Benefits
+# Institutional Benefits
 
 - Early intervention for at-risk students before crises occur
 - Resource optimization through priority-based counseling allocation
 - Retention improvement by addressing mental health barriers to academic success
 - Data-driven decisions for mental health program development
 
-##Student Outcomes
+# Student Outcomes
 - 78.6% reduction in treatment gap through proactive identification
 - Personalized support based on individual risk profiles
 - Academic performance improvement through timely interventions
