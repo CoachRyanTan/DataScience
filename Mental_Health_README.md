@@ -81,21 +81,25 @@ Build a predictive machine learning system to identify at-risk students for proa
 ### Prerequisites
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-```bash
-Quick Start
-Clone or download the project files
+```
 
-Run in Google Colab (Recommended):
+## Quick Start
+1. Clone or download the project files
+2. Run in Google Colab (Recommended):
 
 python
+```bash
 from google.colab import files
 uploaded = files.upload()
 # Run the provided Jupyter notebook cells sequentially
-Local Execution:
+```
+3. Local Execution:
 
-bash
+```bash
 jupyter notebook
 # Open and run: Mental_Health_Screener.ipynb
+```
+
 Step-by-Step Execution
 Step 1: Data Loading & Initial Exploration
 
