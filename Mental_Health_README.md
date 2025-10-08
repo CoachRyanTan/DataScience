@@ -87,8 +87,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 1. Clone or download the project files
 2. Run in Google Colab (Recommended):
 
-python
-```bash
+```python
 from google.colab import files
 uploaded = files.upload()
 # Run the provided Jupyter notebook cells sequentially
