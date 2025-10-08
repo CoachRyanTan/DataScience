@@ -99,19 +99,15 @@ jupyter notebook
 # Open and run: Mental_Health_Screener.ipynb
 ```
 
-Step-by-Step Execution
-Step 1: Data Loading & Initial Exploration
-
-Step 2: Data Cleaning & Feature Engineering
-
-Step 3: Exploratory Data Analysis & Visualization
-
-Step 4: Model Training & Evaluation
-
-Step 5: Deployment & Screening Dashboard
+## Step-by-Step Execution
+1. Step 1: Data Loading & Initial Exploration
+2. Step 2: Data Cleaning & Feature Engineering
+3. Step 3: Exploratory Data Analysis & Visualization
+4. Step 4: Model Training & Evaluation
+5. Step 5: Deployment & Screening Dashboard
 
 Using the Screening Tool
-python
+```python
 # Screen individual students
 student_data = {
     'gender': 'Female',
@@ -124,29 +120,27 @@ student_data = {
 
 prediction, probability = screener.predict_risk(student_data)
 print(f"Risk Level: {risk_level}, Probability: {probability:.1%}")
-Batch Processing
-python
+```
+
+## Batch Processing
+```python
 # Screen multiple students
 results = batch_screen_students(student_list)
 export_screening_results(results, 'screening_results.csv')
-💡 Business Impact
-Institutional Benefits
-Early intervention for at-risk students before crises occur
+```
 
-Resource optimization through priority-based counseling allocation
+#💡 Business Impact
+##Institutional Benefits
+- Early intervention for at-risk students before crises occur
+- Resource optimization through priority-based counseling allocation
+- Retention improvement by addressing mental health barriers to academic success
+- Data-driven decisions for mental health program development
 
-Retention improvement by addressing mental health barriers to academic success
-
-Data-driven decisions for mental health program development
-
-Student Outcomes
-78.6% reduction in treatment gap through proactive identification
-
-Personalized support based on individual risk profiles
-
-Academic performance improvement through timely interventions
-
-Overall wellbeing enhancement across student population
+##Student Outcomes
+- 78.6% reduction in treatment gap through proactive identification
+- Personalized support based on individual risk profiles
+- Academic performance improvement through timely interventions
+- Overall wellbeing enhancement across student population
 
 🌟 This project demonstrates how data science can create meaningful social impact in education by bridging critical mental health support gaps through proactive, evidence-based interventions.
 
