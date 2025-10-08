@@ -68,7 +68,7 @@ It demonstrates data preprocessing, model training, evaluation, and visualizatio
 | **Precision** | 0.9589 (95.9%) |
 | **Recall** | 0.9722 (97.2%) |
 | **F1-Score** | 0.9655 (96.6%) |
-| **ROC-AUC** | 0.9792 |
+| **-AUC** | 0.9792 |
 
 ✅ The model achieved strong generalization with minimal overfitting.  
 ✅ Excellent recall — ideal for healthcare prediction where **false negatives** are critical.  
@@ -77,7 +77,7 @@ It demonstrates data preprocessing, model training, evaluation, and visualizatio
 
 ## 📈 Visualization
 
-![ROC Curve - KNN](./roc.png)
+![ROC Curve - KNN](./roc_knn.png)
 
 *ROC Curve showing AUC = 0.9792, confirming high model sensitivity and specificity.*
 
