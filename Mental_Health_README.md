@@ -100,6 +100,7 @@ jupyter notebook
 ```
 
 ## Step-by-Step Execution
+
 1. Step 1: Data Loading & Initial Exploration
 2. Step 2: Data Cleaning & Feature Engineering
 3. Step 3: Exploratory Data Analysis & Visualization
@@ -132,6 +133,7 @@ export_screening_results(results, 'screening_results.csv')
 #💡 Business Impact
 
 ##Institutional Benefits
+
 - Early intervention for at-risk students before crises occur
 - Resource optimization through priority-based counseling allocation
 - Retention improvement by addressing mental health barriers to academic success
