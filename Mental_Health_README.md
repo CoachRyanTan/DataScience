@@ -81,6 +81,7 @@ Build a predictive machine learning system to identify at-risk students for proa
 ### Prerequisites
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+```bash
 Quick Start
 Clone or download the project files
 
