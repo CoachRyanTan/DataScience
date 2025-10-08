@@ -145,9 +145,12 @@ export_screening_results(results, 'screening_results.csv')
 - Academic performance improvement through timely interventions
 - Overall wellbeing enhancement across student population
 
+---
+
 🌟 This project demonstrates how data science can create meaningful social impact in education by bridging critical mental health support gaps through proactive, evidence-based interventions.
 
-📁 Project Structure
+## 📁 Project Structure
+
 ~~~text
 mental-health-screener/
 │
@@ -166,16 +169,17 @@ mental-health-screener/
 └── README.md
 ~~~
 
-⚠️ Important Notes
-This tool is designed to augment professional judgment, not replace it
+## ⚠️ Important Notes
 
-Always combine algorithmic insights with clinical expertise
+- This tool is designed to augment professional judgment, not replace it
+- Always combine algorithmic insights with clinical expertise
+- Maintain strict data privacy and ethical guidelines
+- Regular model retraining recommended with new data
 
-Maintain strict data privacy and ethical guidelines
+## 📄 License
 
-Regular model retraining recommended with new data
-
-📄 License
 This project is for educational purposes. Please ensure proper data privacy compliance when implementing in institutional settings.
+
+---
 
 Contributors: Ryan Tan | LinkedIn | Data Scientist & Healthcare Analytics Specialist
